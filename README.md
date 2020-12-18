@@ -23,3 +23,12 @@
 - [X] Métodos de objeto
 - [X] Desafio semana 03
 
+**Aula 04**
+
+- [X] Revisão semana 03
+- [X] Truthy e Falsy
+- [X] Condicional Ternário
+- [X] Escopo de variavéis e funções
+- [X] Desafio semana 04
+
+
